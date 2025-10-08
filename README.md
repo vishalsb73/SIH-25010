@@ -41,10 +41,45 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+Impact / Why This Problem Needs to Be Solved
+
+Empowering small farmers with data-driven and localized agricultural advice can significantly enhance productivity, reduce input costs, and improve overall livelihoods.
+Such a solution will also promote sustainable farming practices, strengthen food security, and support environmental conservation.
+By providing accessible digital advisory tools in regional languages, farmers can become self-reliant and reduce dependence on unreliable third-party advice.
+
+Expected Outcomes
+
+Multilingual AI-based mobile app or chatbot offering real-time, location-specific crop advisory.
+
+Soil health analysis and fertilizer recommendations tailored to specific plots.
+
+Weather-based alerts and predictive insights for timely decision-making.
+
+Pest and disease detection through image uploads using computer vision.
+
+Market price tracking for informed selling decisions.
+
+Voice-enabled support for farmers with limited literacy.
+
+Feedback and data collection systems for continuous model improvement.
+
+Relevant Stakeholders / Beneficiaries
+
+Small and marginal farmers
+
+Agricultural extension officers
+
+Government agriculture departments
+
+NGOs and farmer cooperatives
+
+Agri-tech startups and innovators
+
+Supporting Data
+
+86% of Indian farmers are small or marginal (NABARD Report, 2022).
+
+ICT-based agricultural advisories have been shown to increase crop yield by 20–30% (various studies).
 
 ## Technical Approach
 <h3>Remove These Lines</h3>
